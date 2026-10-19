@@ -1,6 +1,6 @@
 ## 📸 Proof of Concept (Live Test)
 
-SanderSuite was tested live on Termux (Android). Here are the results:
+SanderSuite was tested live on Termux (Android). Berikut urutannya dari hasil uji yang dilakukan:
 
 ### 1. Server Initialization
 <img src="assets/poc_1_server.jpg" alt="Server Start" width="600">
