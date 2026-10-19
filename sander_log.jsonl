@@ -1,0 +1,26 @@
+{"timestamp":"2026-10-19 18:52:21","event":"LISTEN","ip":"0.0.0.0","port":2222,"details":"Port active"}
+{"timestamp":"2026-10-19 18:52:21","event":"LISTEN","ip":"0.0.0.0","port":8080,"details":"Port active"}
+{"timestamp":"2026-10-19 18:52:21","event":"LISTEN","ip":"0.0.0.0","port":3306,"details":"Port active"}
+{"timestamp":"2026-10-19 18:52:21","event":"LISTEN","ip":"0.0.0.0","port":2121,"details":"Port active"}
+{"timestamp":"2026-10-19 18:52:21","event":"LISTEN","ip":"0.0.0.0","port":33890,"details":"Port active"}
+{"timestamp":"2026-10-19 18:53:20","event":"AI_TARPIT","ip":"127.0.0.1","port":8080,"details":"SQL_INJECTION (Slowing down)"}
+{"timestamp":"2026-10-19 18:53:54","event":"AI_BLOCK","ip":"127.0.0.1","port":8080,"details":"SENSITIVE_PATH (Score exceeded)"}
+{"timestamp":"2026-10-19 18:54:31","event":"LISTEN","ip":"0.0.0.0","port":3306,"details":"Port active"}
+{"timestamp":"2026-10-19 18:54:31","event":"LISTEN","ip":"0.0.0.0","port":33890,"details":"Port active"}
+{"timestamp":"2026-10-19 18:54:31","event":"LISTEN","ip":"0.0.0.0","port":2121,"details":"Port active"}
+{"timestamp":"2026-10-19 18:54:31","event":"LISTEN","ip":"0.0.0.0","port":2222,"details":"Port active"}
+{"timestamp":"2026-10-19 18:54:31","event":"LISTEN","ip":"0.0.0.0","port":8080,"details":"Port active"}
+{"timestamp":"2026-10-19 18:55:01","event":"AI_BLOCK","ip":"127.0.0.1","port":8080,"details":"SENSITIVE_PATH (Score exceeded)"}
+{"timestamp":"2026-10-19 18:57:01","event":"AI_BLOCK","ip":"127.0.0.1","port":8080,"details":"NUCLEI_SCANNER (Score exceeded)"}
+{"timestamp":"2026-10-19 19:03:21","event":"LISTEN","ip":"0.0.0.0","port":33890,"details":"Port active"}
+{"timestamp":"2026-10-19 19:03:21","event":"LISTEN","ip":"0.0.0.0","port":3306,"details":"Port active"}
+{"timestamp":"2026-10-19 19:03:21","event":"LISTEN","ip":"0.0.0.0","port":2121,"details":"Port active"}
+{"timestamp":"2026-10-19 19:03:21","event":"LISTEN","ip":"0.0.0.0","port":8080,"details":"Port active"}
+{"timestamp":"2026-10-19 19:03:21","event":"LISTEN","ip":"0.0.0.0","port":2222,"details":"Port active"}
+{"timestamp":"2026-10-19 19:03:50","event":"AI_BLOCK","ip":"127.0.0.1","port":8080,"details":"SENSITIVE_PATH (Score exceeded)"}
+{"timestamp":"2026-10-19 19:04:37","event":"LISTEN","ip":"0.0.0.0","port":2121,"details":"Port active"}
+{"timestamp":"2026-10-19 19:04:37","event":"LISTEN","ip":"0.0.0.0","port":33890,"details":"Port active"}
+{"timestamp":"2026-10-19 19:04:37","event":"LISTEN","ip":"0.0.0.0","port":2222,"details":"Port active"}
+{"timestamp":"2026-10-19 19:04:37","event":"LISTEN","ip":"0.0.0.0","port":3306,"details":"Port active"}
+{"timestamp":"2026-10-19 19:04:37","event":"LISTEN","ip":"0.0.0.0","port":8080,"details":"Port active"}
+{"timestamp":"2026-10-19 19:04:53","event":"AI_BLOCK","ip":"127.0.0.1","port":8080,"details":"JAVA_INJECTION (Score exceeded)"}
