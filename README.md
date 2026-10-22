@@ -1,10 +1,14 @@
-# SanderSuite 🛡️
+# SanderSuite 🛡️ (Linux Edition)
+
+[![SanderSuite-Linux Audit](https://github.com/aleksandergrambelik-png/SanderSuite-Linux/actions/workflows/audit.yml/badge.svg)](https://github.com/aleksandergrambelik-png/SanderSuite-Linux/actions/workflows/audit.yml)
+![Java](https://img.shields.io/badge/Java-11+-orange)
+![Platform](https://img.shields.io/badge/Platform-Debian%20%7C%20Arch%20%7C%20Slackware-blue)
+![License](https://img.shields.io/badge/License-GPL--3.0-green)
+
+> All-in-one offensive and defensive security suite for Linux.
 
 > Ultimate AI-Powered Honeypot + WAF (Web Application Firewall) for Linux and Termux.
 
-![Java](https://img.shields.io/badge/Java-11+-orange)
-![Platform](https://img.shields.io/badge/Platform-Termux%20%7C%20Linux-blue)
-![License](https://img.shields.io/badge/License-GPL--3.0-green)
 
 ## 📸 Proof of Concept (Live Test)
 

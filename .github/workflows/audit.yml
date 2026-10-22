@@ -1,4 +1,4 @@
-name: SanderSuite Audit
+name: SanderSuite-Linux Audit
 
 on:
   push:
@@ -9,27 +9,14 @@ on:
 jobs:
   audit:
     runs-on: ubuntu-latest
-
     steps:
-    - name: Checkout Repository
-      uses: actions/checkout@v4
-
-    - name: Set up JDK 17
-      uses: actions/setup-java@v5
+    - uses: actions/checkout@v4
+    - uses: actions/setup-java@v5
       with:
         java-version: '17'
         distribution: 'temurin'
-
-    - name: List Files (Debug)
+    - name: Compile Java
       run: |
-        echo "Current directory: $(pwd)"
-        ls -la
-        echo "--- Java Files ---"
-        find src -name "*.java"
-
-    - name: Compile Java Source
-      run: |
-        echo "Compiling SanderSuite..."
         mkdir -p build
         javac -d build $(find src -name "*.java")
-        echo "Compilation verified. SanderSuite is ready."
+        echo "SanderSuite-Linux compiled successfully."
